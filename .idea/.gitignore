@@ -1,0 +1,6 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 数据源本地存储已忽略文件
+/../../../../../../../../:\Users\yzdz2\.DataGrip2019.3\config\projects\default\.idea/dataSources/
+/dataSources.local.xml
